@@ -1,2 +1,2 @@
 # brickBreak
-A brick break game created from MSN 
+A brick break game created from a Mozilla tutorial
